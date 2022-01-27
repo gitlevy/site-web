@@ -1,4 +1,4 @@
-# Doculentation
+# Documentation
 
 *   Installation
 *   Mise en place
