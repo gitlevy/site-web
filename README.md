@@ -13,3 +13,7 @@
     return el;
   }
 ```
+
+```css
+background: #000;
+```
